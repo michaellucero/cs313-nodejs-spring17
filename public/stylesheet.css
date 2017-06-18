@@ -1,0 +1,27 @@
+h2 {
+  text-align: center;
+}
+.form-format {
+  margin: auto;
+
+  max-width: 75%;
+}
+.options {
+  justify-content: center;
+  display: flex;
+  background-color: rgb(191, 199, 215);
+  flex-grow: 1;
+  padding: 4px;
+  flex-shrink: 1;
+  box-shadow: 2px 2px 2px rgb(60, 36, 46);
+}
+
+p {
+  justify-content: center;
+  display: flex;
+  background-color: rgb(191, 199, 215);
+  flex-grow: 1;
+  padding: 4px;
+  flex-shrink: 1;
+  box-shadow: 2px 2px 2px rgb(60, 36, 46);
+}
